@@ -27,3 +27,4 @@ The mind map is located here: https://app.mural.co/invitation/mural/phdmindmap28
 ## TGR
 - TGR + population: impact of restricting the population on TGR results. 
 - PCA decomposition of the PN coefficient parameters (SURF maybe?)
+- SRC detuning for improved TGR correlations ??? 
